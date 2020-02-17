@@ -158,8 +158,9 @@ hr {
   }
 
   .intro {
-    width: 30%;
+    max-width: 70%;
     margin: auto;
+    display: block;
   }
 
 
